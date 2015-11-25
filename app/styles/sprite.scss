@@ -1,0 +1,83 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<!-- `display: block` sprite -->
+<div class="icon-home"></div>
+
+<!-- `display: inline-block` sprite -->
+<img class="icon-home" />
+```
+*/
+.icon-case {
+  background-image: url(../images/sprite.jpg);
+  background-position: -24px 0px;
+  width: 24px;
+  height: 24px;
+}
+.icon-cells {
+  background-image: url(../images/sprite.jpg);
+  background-position: 0px -48px;
+  width: 24px;
+  height: 24px;
+}
+.icon-chart {
+  background-image: url(../images/sprite.jpg);
+  background-position: 0px -24px;
+  width: 24px;
+  height: 24px;
+}
+.icon-doc {
+  background-image: url(../images/sprite.jpg);
+  background-position: -24px -24px;
+  width: 24px;
+  height: 24px;
+}
+.icon-edit {
+  background-image: url(../images/sprite.jpg);
+  background-position: -48px 0px;
+  width: 24px;
+  height: 24px;
+}
+.icon-email {
+  background-image: url(../images/sprite.jpg);
+  background-position: -48px -24px;
+  width: 24px;
+  height: 24px;
+}
+.icon-facebook {
+  background-image: url(../images/sprite.jpg);
+  background-position: 0px 0px;
+  width: 24px;
+  height: 24px;
+}
+.icon-flag-red {
+  background-image: url(../images/sprite.jpg);
+  background-position: -72px -40px;
+  width: 16px;
+  height: 16px;
+}
+.icon-flag {
+  background-image: url(../images/sprite.jpg);
+  background-position: -72px 0px;
+  width: 20px;
+  height: 20px;
+}
+.icon-pin {
+  background-image: url(../images/sprite.jpg);
+  background-position: -72px -20px;
+  width: 20px;
+  height: 20px;
+}
+.icon-star {
+  background-image: url(../images/sprite.jpg);
+  background-position: -24px -48px;
+  width: 24px;
+  height: 24px;
+}
+.icon-user {
+  background-image: url(../images/sprite.jpg);
+  background-position: -48px -48px;
+  width: 24px;
+  height: 24px;
+}

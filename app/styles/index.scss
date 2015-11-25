@@ -1,0 +1,14 @@
+$icon-font-path: '../fonts/';
+
+// bower:scss
+@import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+// endbower
+
+@import "sprite";
+@import "common";
+
+
+@import "property-general-info";
+@import "main";
+
+

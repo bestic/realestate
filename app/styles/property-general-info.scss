@@ -1,0 +1,30 @@
+.property-general-info {
+  overflow: hidden;
+  color: #87818d;
+  line-height: 57px;
+
+  padding: 0 20px 0 5px;
+  background-color: #fff;
+
+  .info-list {
+
+    float: left;
+    .info {
+      display: inline-block;
+      padding-left: 10px;
+    }
+  }
+
+  .price {
+
+    float: right;
+    .sum {
+      color: #ca2335;
+      font-weight: bold;
+    }
+    .period {
+
+    }
+  }
+
+}
