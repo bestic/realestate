@@ -1,0 +1,1 @@
+$(function(){$(".menu li").on("click",function(n){return $(n.target).closest(".sub-menu").length>0?!1:void $(this).toggleClass("active")}),$(".navbar-toggle").on("click",function(){$(".nav-small ul").toggle()}),$(document).on("click",function(n){0===$(n.target).closest(".navbar-toggle").length&&$(".nav-small ul").hide()})});
